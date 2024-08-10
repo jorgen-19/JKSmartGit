@@ -1,0 +1,5 @@
+Denne fil er oprettet for at undersøge forskellige former
+for merge conflicter.
+
+a. Linie fra vscode.
+b. Linie fra vscode.
