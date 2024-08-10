@@ -1,2 +1,3 @@
 # JKSmartGit
-Projekt til at lære SmartGit
+Projekt til at lære SmartGit.
+Starter med kun at indeholde denne fil.
