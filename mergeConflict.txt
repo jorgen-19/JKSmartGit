@@ -5,6 +5,7 @@ a. Linie fra vscode.
 b. Linie fra vscode.
 
 Intil videre kan jeg ikke finde ud at at få en ny fil tracked udover
+  denne linie er insat direkte i github, og skal fjernes ved en merge konflikt
 at man i et consol vindue angiver kommandoen:
 
 git add [navn på fil]
